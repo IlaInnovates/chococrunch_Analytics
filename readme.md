@@ -20,3 +20,13 @@ and provides 27 pre-defined SQL-style analytical queries with rich **EDA (Explor
 
 ## 🗂️ Project Structure
 
+📁 data/ → Raw and processed chocolate data  
+📁 out/ → 27 analytical query result CSVs  
+📁 eda/ → Exploratory Data Analysis plots  
+📄 run_all.py → Data collection & processing script  
+📄 app_streamlit.py → Streamlit dashboard app  
+📄 requirements.txt → Project dependencies  
+📄 README.md → Project documentation
+
+
+
